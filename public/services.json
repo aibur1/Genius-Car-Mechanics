@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 2000,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperim nequ quawra molestias voluptatibus harum ametipsa.",
+        "time": 2,
+        "img": "https://i.ibb.co/Pr0tW4N/7.jpg"
+    },
+    {
+        "id": 2,
+        "name": "TYRE CHANGE",
+        "price": 2500,
+        "time": 1.5,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperim nequ quawra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/fqdb6M2/5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "WHEEL ALIGNMENT",
+        "price": 3000,
+        "time": 2,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperim nequ quawra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/tz9fVhZ/6.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BRAKE REPARING",
+        "price": 2500,
+        "time": 3,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperim nequ quawra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/85VVd5q/3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "OIL CHANGING",
+        "price": 4000,
+        "time": 3,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperim nequ quawra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/thyGbYD/4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "WHOLE CHECKUP",
+        "price": 5000,
+        "time": 6,
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperim nequ quawra molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ngyRvCW/1.jpg"
+    }
+]
